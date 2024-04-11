@@ -7,7 +7,7 @@
 <h1>About Me 📌</h1>
 
 - 👋 Hi, I’m Osama Qutait
-- 👨‍💻 I’m Interested in AI & ML Fields and Competitive Programming 
+- 👨‍💻 I’m Interested in AI & ML Fields, Competitive Programming, hardware, and computer network
 - 🎓 Computer Engineering  Student @ Birzeit University
 - 📫 How to Reach Me oaqutait@gmail.com
 
